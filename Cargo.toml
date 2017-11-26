@@ -1,0 +1,7 @@
+[package]
+name = "crypto"
+version = "0.1.0"
+authors = ["Ayzse <macnerl2@illinois.edu>"]
+
+[dependencies]
+curl = "0.4.8"
